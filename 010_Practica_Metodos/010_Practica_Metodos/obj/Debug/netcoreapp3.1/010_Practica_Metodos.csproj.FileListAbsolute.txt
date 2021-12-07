@@ -1,0 +1,14 @@
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\bin\Debug\netcoreapp3.1\010_Practica_Metodos.exe
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\bin\Debug\netcoreapp3.1\010_Practica_Metodos.deps.json
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\bin\Debug\netcoreapp3.1\010_Practica_Metodos.runtimeconfig.json
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\bin\Debug\netcoreapp3.1\010_Practica_Metodos.runtimeconfig.dev.json
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\bin\Debug\netcoreapp3.1\010_Practica_Metodos.dll
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\bin\Debug\netcoreapp3.1\010_Practica_Metodos.pdb
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\obj\Debug\netcoreapp3.1\010_Practica_Metodos.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\obj\Debug\netcoreapp3.1\010_Practica_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\obj\Debug\netcoreapp3.1\010_Practica_Metodos.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\obj\Debug\netcoreapp3.1\010_Practica_Metodos.AssemblyInfo.cs
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\obj\Debug\netcoreapp3.1\010_Practica_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\obj\Debug\netcoreapp3.1\010_Practica_Metodos.dll
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\obj\Debug\netcoreapp3.1\010_Practica_Metodos.pdb
+C:\Users\julio\Desktop\Curso C#\010_Practica_Metodos\010_Practica_Metodos\obj\Debug\netcoreapp3.1\010_Practica_Metodos.genruntimeconfig.cache

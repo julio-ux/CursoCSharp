@@ -14,6 +14,9 @@ namespace _010_Practica_Metodos
             //mensajeEnPantalla();
             //mensajeEnPantalla();
             SumarNumeros(7,9);
+
+            Console.WriteLine($"La suma de los numeros es: {SumarNumeros(100,900.0)}");
+            Console.WriteLine($"La division de los numeros es: {DivideNumeros(50,25)}");
         }
         //static void mensajeEnPantalla()
         //{
@@ -23,6 +26,11 @@ namespace _010_Practica_Metodos
         {
             Console.WriteLine($"La suma de { numero1 } y { numero2 } es { numero1 + numero2 }");
         }
+        static double SumarNumeros(int numero1, double numero2) 
+        {
+            return numero1 + numero2;
+        }
+        static double DivideNumeros(double numero1, double numero2) => numero1 / numero2; 
 
     }
 }

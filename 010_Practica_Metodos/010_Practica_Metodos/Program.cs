@@ -17,8 +17,21 @@ namespace _010_Practica_Metodos
 
             //Console.WriteLine($"La suma de los numeros es: {SumarNumeros(100,900.0)}");
             //Console.WriteLine($"La division de los numeros es: {DivideNumeros(50,25)}");
-            Console.WriteLine(suma(5,7.5));
+            int valor1 = 7;
+            double valor2 = 5.2;
+            double valor3 = 8.3;
+            Console.WriteLine(suma(valor1,valor2));
         }
+
+        static double suma(int num1, double num2, double num3=0)
+        {
+            return num1 + num2 + num3;
+        }
+        static double suma(int num1, double num2) 
+        {
+            return num1 + num2;
+        }
+
         //static void mensajeEnPantalla()
         //{
         //    Console.WriteLine("Mensaje desde el metodo mensajeEnPantalla");
@@ -43,8 +56,8 @@ namespace _010_Practica_Metodos
         //int numero1 = 5;
         //int numero2 = 7;
 
-        static int suma(int operador1, int operador2) => operador1 + operador2;
-        static int suma(int operador1, double operador2) => operador1;
-        static int suma(int operador1, int operador2, int operador3, int numero4) => operador1 + operador2;
+        //static int suma(int operador1, int operador2) => operador1 + operador2;
+        //static int suma(int operador1, double operador2) => operador1;
+        //static int suma(int operador1, int operador2, int operador3, int numero4) => operador1 + operador2;
     }
 }

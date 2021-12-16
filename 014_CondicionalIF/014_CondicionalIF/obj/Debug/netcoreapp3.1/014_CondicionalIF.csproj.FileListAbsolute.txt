@@ -1,0 +1,14 @@
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\bin\Debug\netcoreapp3.1\014_CondicionalIF.exe
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\bin\Debug\netcoreapp3.1\014_CondicionalIF.deps.json
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\bin\Debug\netcoreapp3.1\014_CondicionalIF.runtimeconfig.json
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\bin\Debug\netcoreapp3.1\014_CondicionalIF.runtimeconfig.dev.json
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\bin\Debug\netcoreapp3.1\014_CondicionalIF.dll
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\bin\Debug\netcoreapp3.1\014_CondicionalIF.pdb
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\obj\Debug\netcoreapp3.1\014_CondicionalIF.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\obj\Debug\netcoreapp3.1\014_CondicionalIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\obj\Debug\netcoreapp3.1\014_CondicionalIF.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\obj\Debug\netcoreapp3.1\014_CondicionalIF.AssemblyInfo.cs
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\obj\Debug\netcoreapp3.1\014_CondicionalIF.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\obj\Debug\netcoreapp3.1\014_CondicionalIF.dll
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\obj\Debug\netcoreapp3.1\014_CondicionalIF.pdb
+C:\Users\julio\Desktop\Curso C#\014_CondicionalIF\014_CondicionalIF\obj\Debug\netcoreapp3.1\014_CondicionalIF.genruntimeconfig.cache

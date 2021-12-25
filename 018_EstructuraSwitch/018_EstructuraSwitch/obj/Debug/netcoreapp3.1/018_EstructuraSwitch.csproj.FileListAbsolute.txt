@@ -1,0 +1,14 @@
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\bin\Debug\netcoreapp3.1\018_EstructuraSwitch.exe
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\bin\Debug\netcoreapp3.1\018_EstructuraSwitch.deps.json
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\bin\Debug\netcoreapp3.1\018_EstructuraSwitch.runtimeconfig.json
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\bin\Debug\netcoreapp3.1\018_EstructuraSwitch.runtimeconfig.dev.json
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\bin\Debug\netcoreapp3.1\018_EstructuraSwitch.dll
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\bin\Debug\netcoreapp3.1\018_EstructuraSwitch.pdb
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\obj\Debug\netcoreapp3.1\018_EstructuraSwitch.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\obj\Debug\netcoreapp3.1\018_EstructuraSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\obj\Debug\netcoreapp3.1\018_EstructuraSwitch.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\obj\Debug\netcoreapp3.1\018_EstructuraSwitch.AssemblyInfo.cs
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\obj\Debug\netcoreapp3.1\018_EstructuraSwitch.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\obj\Debug\netcoreapp3.1\018_EstructuraSwitch.dll
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\obj\Debug\netcoreapp3.1\018_EstructuraSwitch.pdb
+C:\Users\julio\Desktop\Curso C#\018_EstructuraSwitch\018_EstructuraSwitch\obj\Debug\netcoreapp3.1\018_EstructuraSwitch.genruntimeconfig.cache

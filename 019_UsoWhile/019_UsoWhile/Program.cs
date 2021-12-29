@@ -31,7 +31,7 @@ namespace _019_UsoWhile
                 {
                     Console.WriteLine("El numero debe ser menor");
                 }
-                else 
+                if (numero_dado < numero_random)
                 {
                     Console.WriteLine("El numero debe ser mayor");
                 }

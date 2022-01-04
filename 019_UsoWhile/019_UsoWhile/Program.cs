@@ -25,8 +25,16 @@ namespace _019_UsoWhile
             do
             {
                 intentos++;
-                Console.WriteLine("De un numero, por favor");
-                numero_dado = Int32.Parse(Console.ReadLine());
+                Console.WriteLine("De un numero, por favor: ");
+                try
+                {
+                    numero_dado = Int32.Parse(Console.ReadLine());
+                }
+                catch (FormatException e) 
+                {
+                    Console.WriteLine("Solo numeros, por favor " + e.Message);
+                }
+                                
                 if (numero_dado > numero_random)
                 {
                     Console.WriteLine("El numero debe ser menor");
@@ -37,6 +45,7 @@ namespace _019_UsoWhile
                 }
             } while (numero_random != numero_dado);
             Console.WriteLine($"Felicidades, lo logro en { intentos } intetntos");
+            Console.WriteLine("A partir de aqui continuaria el programa");
         }
     }
 }

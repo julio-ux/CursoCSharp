@@ -30,9 +30,17 @@ namespace _019_UsoWhile
                 {
                     numero_dado = Int32.Parse(Console.ReadLine());
                 }
-                catch (FormatException e) 
+                //catch (FormatException e)
+                //{
+                //    Console.WriteLine("Solo numeros, por favor " + e.Message);
+                //}
+                //catch (OverflowException e) 
+                //{
+                //    Console.WriteLine("El valor es muy grande");
+                //}
+                catch (Exception e) 
                 {
-                    Console.WriteLine("Solo numeros, por favor " + e.Message);
+                    Console.WriteLine("Error: " + e.Message);
                 }
                                 
                 if (numero_dado > numero_random)

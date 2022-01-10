@@ -38,11 +38,20 @@ namespace _019_UsoWhile
                 //{
                 //    Console.WriteLine("El valor es muy grande");
                 //}
-                catch (Exception e) 
+                //catch (FormatException e)
+                //{
+                //    Console.WriteLine("Error con el formato: " + e.Message);
+                //}
+                catch (Exception e) when (e.GetType() != typeof(FormatException))
                 {
                     Console.WriteLine("Error: " + e.Message);
                 }
-                                
+                catch (FormatException e) 
+                {
+                    Console.WriteLine("Haz introducido texto");
+                }
+                
+
                 if (numero_dado > numero_random)
                 {
                     Console.WriteLine("El numero debe ser menor");

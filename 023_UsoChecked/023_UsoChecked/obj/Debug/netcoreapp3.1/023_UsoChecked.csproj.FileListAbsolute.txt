@@ -1,0 +1,14 @@
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\bin\Debug\netcoreapp3.1\023_UsoChecked.exe
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\bin\Debug\netcoreapp3.1\023_UsoChecked.deps.json
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\bin\Debug\netcoreapp3.1\023_UsoChecked.runtimeconfig.json
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\bin\Debug\netcoreapp3.1\023_UsoChecked.runtimeconfig.dev.json
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\bin\Debug\netcoreapp3.1\023_UsoChecked.dll
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\bin\Debug\netcoreapp3.1\023_UsoChecked.pdb
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\obj\Debug\netcoreapp3.1\023_UsoChecked.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\obj\Debug\netcoreapp3.1\023_UsoChecked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\obj\Debug\netcoreapp3.1\023_UsoChecked.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\obj\Debug\netcoreapp3.1\023_UsoChecked.AssemblyInfo.cs
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\obj\Debug\netcoreapp3.1\023_UsoChecked.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\obj\Debug\netcoreapp3.1\023_UsoChecked.dll
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\obj\Debug\netcoreapp3.1\023_UsoChecked.pdb
+C:\Users\julio\Desktop\Curso C#\023_UsoChecked\023_UsoChecked\obj\Debug\netcoreapp3.1\023_UsoChecked.genruntimeconfig.cache

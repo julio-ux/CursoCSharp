@@ -1,0 +1,14 @@
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\obj\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\obj\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\obj\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.AssemblyInfo.cs
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\obj\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\bin\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.exe
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\bin\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.deps.json
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\bin\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.runtimeconfig.json
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\bin\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.runtimeconfig.dev.json
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\bin\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.dll
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\bin\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.pdb
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\obj\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.dll
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\obj\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.pdb
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\obj\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.genruntimeconfig.cache
+C:\Users\julio\Desktop\Curso C#\024_Lanzamiento_de_excepciones\024_Lanzamiento_de_excepciones\obj\Debug\netcoreapp3.1\024_Lanzamiento_de_excepciones.csproj.AssemblyReference.cache

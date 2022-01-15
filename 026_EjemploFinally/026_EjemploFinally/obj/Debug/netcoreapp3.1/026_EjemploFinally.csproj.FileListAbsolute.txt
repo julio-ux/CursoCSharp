@@ -1,0 +1,14 @@
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\bin\Debug\netcoreapp3.1\026_EjemploFinally.exe
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\bin\Debug\netcoreapp3.1\026_EjemploFinally.deps.json
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\bin\Debug\netcoreapp3.1\026_EjemploFinally.runtimeconfig.json
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\bin\Debug\netcoreapp3.1\026_EjemploFinally.runtimeconfig.dev.json
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\bin\Debug\netcoreapp3.1\026_EjemploFinally.dll
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\bin\Debug\netcoreapp3.1\026_EjemploFinally.pdb
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\obj\Debug\netcoreapp3.1\026_EjemploFinally.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\obj\Debug\netcoreapp3.1\026_EjemploFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\obj\Debug\netcoreapp3.1\026_EjemploFinally.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\obj\Debug\netcoreapp3.1\026_EjemploFinally.AssemblyInfo.cs
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\obj\Debug\netcoreapp3.1\026_EjemploFinally.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\obj\Debug\netcoreapp3.1\026_EjemploFinally.dll
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\obj\Debug\netcoreapp3.1\026_EjemploFinally.pdb
+C:\Users\julio\Desktop\Curso C#\026_EjemploFinally\026_EjemploFinally\obj\Debug\netcoreapp3.1\026_EjemploFinally.genruntimeconfig.cache

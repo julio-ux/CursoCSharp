@@ -1,0 +1,14 @@
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\bin\Debug\netcoreapp3.1\028_POO_II.exe
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\bin\Debug\netcoreapp3.1\028_POO_II.deps.json
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\bin\Debug\netcoreapp3.1\028_POO_II.runtimeconfig.json
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\bin\Debug\netcoreapp3.1\028_POO_II.runtimeconfig.dev.json
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\bin\Debug\netcoreapp3.1\028_POO_II.dll
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\bin\Debug\netcoreapp3.1\028_POO_II.pdb
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\obj\Debug\netcoreapp3.1\028_POO_II.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\obj\Debug\netcoreapp3.1\028_POO_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\obj\Debug\netcoreapp3.1\028_POO_II.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\obj\Debug\netcoreapp3.1\028_POO_II.AssemblyInfo.cs
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\obj\Debug\netcoreapp3.1\028_POO_II.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\obj\Debug\netcoreapp3.1\028_POO_II.dll
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\obj\Debug\netcoreapp3.1\028_POO_II.pdb
+C:\Users\julio\Desktop\Curso C#\028_POO_II\028_POO_II\obj\Debug\netcoreapp3.1\028_POO_II.genruntimeconfig.cache

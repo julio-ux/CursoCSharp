@@ -6,22 +6,38 @@ namespace _028_POO_II
     {
         static void Main(string[] args)
         {
-            Circulo miCirculo = new Circulo();//Instanciar una clase 
-            //Instanciacion, Ejemplarizacion, Crear de ejemplar de clase
-                     
-            Console.WriteLine("El area del circulo es: " + miCirculo.calculoArea(5));
+            ConversorEuroDolar obj = new ConversorEuroDolar();
+            obj.CambiarValorEuro(-7.85);
+            Console.WriteLine(obj.Convierte(50));
+            //Circulo miCirculo = new Circulo();//Instanciar una clase 
+            ////Instanciacion, Ejemplarizacion, Crear de ejemplar de clase
 
-            Circulo miCurculo2 = new Circulo();
+            //Console.WriteLine("El area del circulo es: " + miCirculo.CalculoArea(5));
 
-            Console.WriteLine("El area del circulo es: " + miCirculo.calculoArea(9));
+            //Circulo miCurculo2 = new Circulo();
+
+            //Console.WriteLine("El area del circulo es: " + miCirculo.CalculoArea(9));
         }
     }
     class Circulo 
     {
-        const double pi = 3.1416;//Propiedad de la clase Circulo. Campo de clase.
-        public double calculoArea(int radio)//Metodo de clase. ¿Que pueden hacer los objetos de tipo circulo? 
+        private const double pi = 3.1416;//Propiedad de la clase Circulo. Campo de clase.
+        public double CalculoArea(int radio)//Metodo de clase. ¿Que pueden hacer los objetos de tipo circulo? 
         {
             return pi * radio * radio;
+        }
+    }
+    class ConversorEuroDolar 
+    {
+        private double euro = 1.253;
+        public double Convierte(double cantidad) 
+        {
+            return cantidad * euro;
+        }
+        public void CambiarValorEuro(double valor) 
+        {
+            if (valor < 0) euro = 1.253;
+            else euro = valor;
         }
     }
 }

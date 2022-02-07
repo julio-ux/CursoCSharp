@@ -18,10 +18,12 @@ namespace _029_UsoCoches
             Coche coche3 = new Coche(4500.25,1200.35);
 
             Console.WriteLine(coche3.getInfoCoche());
+            coche3.setExtras(true,"Cuero");
+            Console.WriteLine(coche3.getExtras());
 
         }
     }
-    class Coche 
+    partial class Coche
     {
         private int ruedas;
         private double largo;
@@ -29,21 +31,35 @@ namespace _029_UsoCoches
         private bool climatizador;
         private String tapiceria;
 
-        public Coche() 
+        public Coche()
         {
             ruedas = 4;
             largo = 2300.5;
             ancho = 0.800;
+            tapiceria = "Tela";
         }
-        public Coche(double largo_coche, double ancho_coche) 
+        public Coche(double largo_coche, double ancho_coche)
         {
             ruedas = 4;
             largo = largo_coche;
             ancho = ancho_coche;
+            tapiceria = "Tela";
         }
+    }
+    //******************************************************************************************************
+    partial class Coche { 
         public String getInfoCoche() 
         {
             return "Información del coche: \nRuedas: " + ruedas + " Largo: " + largo + " Ancho: " + ancho;
+        }
+        public void setExtras(bool climatizador, String tapiceria) 
+        {
+            this.climatizador = climatizador;
+            this.tapiceria = tapiceria; 
+        }
+        public String getExtras() 
+        {
+            return "Extras del coche: \nTapiceria: " + tapiceria + " Climatizador: " + climatizador;
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\bin\Debug\netcoreapp3.1\032_Conceptos_POO.exe
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\bin\Debug\netcoreapp3.1\032_Conceptos_POO.deps.json
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\bin\Debug\netcoreapp3.1\032_Conceptos_POO.runtimeconfig.json
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\bin\Debug\netcoreapp3.1\032_Conceptos_POO.runtimeconfig.dev.json
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\bin\Debug\netcoreapp3.1\032_Conceptos_POO.dll
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\bin\Debug\netcoreapp3.1\032_Conceptos_POO.pdb
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\obj\Debug\netcoreapp3.1\032_Conceptos_POO.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\obj\Debug\netcoreapp3.1\032_Conceptos_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\obj\Debug\netcoreapp3.1\032_Conceptos_POO.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\obj\Debug\netcoreapp3.1\032_Conceptos_POO.AssemblyInfo.cs
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\obj\Debug\netcoreapp3.1\032_Conceptos_POO.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\obj\Debug\netcoreapp3.1\032_Conceptos_POO.dll
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\obj\Debug\netcoreapp3.1\032_Conceptos_POO.pdb
+C:\Users\julio\Desktop\Curso C#\032_Conceptos_POO\032_Conceptos_POO\obj\Debug\netcoreapp3.1\032_Conceptos_POO.genruntimeconfig.cache

@@ -12,8 +12,9 @@ namespace _032_Conceptos_POO
         {
             // TODO:
             Punto origen = new Punto();
-            Punto destino = new Punto(125,80);
-
+            Punto destino = new Punto(150,90);
+            double distancia = origen.DistanciaHasta(destino);
+            Console.WriteLine($"La distancia entre los puntos es de: {distancia}");
         }
     }
 }

@@ -6,7 +6,13 @@ namespace _032_Conceptos_POO
     {
         static void Main(string[] args)
         {
-            realizarTarea();
+            //realizarTarea();
+            var miVariable = new { Nombre = "Julio", Edad = 29 };
+            Console.WriteLine(miVariable.Nombre + " " + miVariable.Edad);
+            var miOtraVariable = new { Nombre = "Anna", Edad = 25  };
+
+            miVariable = miOtraVariable;
+
         }
         static void realizarTarea() 
         {

@@ -1,0 +1,14 @@
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\bin\Debug\netcoreapp3.1\036_UsoArrays_1.exe
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\bin\Debug\netcoreapp3.1\036_UsoArrays_1.deps.json
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\bin\Debug\netcoreapp3.1\036_UsoArrays_1.runtimeconfig.json
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\bin\Debug\netcoreapp3.1\036_UsoArrays_1.runtimeconfig.dev.json
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\bin\Debug\netcoreapp3.1\036_UsoArrays_1.dll
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\bin\Debug\netcoreapp3.1\036_UsoArrays_1.pdb
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\obj\Debug\netcoreapp3.1\036_UsoArrays_1.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\obj\Debug\netcoreapp3.1\036_UsoArrays_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\obj\Debug\netcoreapp3.1\036_UsoArrays_1.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\obj\Debug\netcoreapp3.1\036_UsoArrays_1.AssemblyInfo.cs
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\obj\Debug\netcoreapp3.1\036_UsoArrays_1.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\obj\Debug\netcoreapp3.1\036_UsoArrays_1.dll
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\obj\Debug\netcoreapp3.1\036_UsoArrays_1.pdb
+C:\Users\julio\Desktop\Curso C#\036_UsoArrays_1\036_UsoArrays_1\obj\Debug\netcoreapp3.1\036_UsoArrays_1.genruntimeconfig.cache
